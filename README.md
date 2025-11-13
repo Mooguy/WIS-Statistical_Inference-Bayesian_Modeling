@@ -7,14 +7,14 @@ The project demonstrates Bayesian modeling and inference using Stan, Jupyter not
 
 ## Project Structure
 
-├─ notebooks/ # Jupyter notebooks for analysis and visualization
-├─ models/ # Stan model files (.stan)
-├─ data/ # Input data (if small/public)
-├─ pixi.toml # Pixi environment specification
-├─ pixi.lock # Locked dependency versions
-├─ README.md
-├─ LICENSE
-└─ .gitignore
+notebooks/ # Jupyter notebooks for analysis and visualization
+models/ # Stan model files (.stan)
+data/ # Input data (if small/public)
+pixi.toml # Pixi environment specification
+pixi.lock # Locked dependency versions
+README.md
+LICENSE
+.gitignore
 
 ## Environment Setup
 
